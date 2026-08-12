@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/jaikrishna10/java-week2/tree/master/0179-largest-number) |
+| [0704-binary-search](https://github.com/jaikrishna10/java-week2/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |
@@ -24,4 +25,8 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/jaikrishna10/java-week2/tree/master/0179-largest-number) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/jaikrishna10/java-week2/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
