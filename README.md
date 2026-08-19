@@ -17,6 +17,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/jaikrishna10/java-week2/tree/master/0179-largest-number) |
 | [0704-binary-search](https://github.com/jaikrishna10/java-week2/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/jaikrishna10/java-week2/tree/master/0867-transpose-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -29,4 +30,12 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/jaikrishna10/java-week2/tree/master/0704-binary-search) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/jaikrishna10/java-week2/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/jaikrishna10/java-week2/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
