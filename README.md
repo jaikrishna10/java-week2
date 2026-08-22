@@ -11,6 +11,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/jaikrishna10/java-week2/tree/master/0179-largest-number) |
 | [1154-day-of-the-year](https://github.com/jaikrishna10/java-week2/tree/master/1154-day-of-the-year) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/jaikrishna10/java-week2/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1360-number-of-days-between-two-dates](https://github.com/jaikrishna10/java-week2/tree/master/1360-number-of-days-between-two-dates) |
 ## Array
 |  |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/jaikrishna10/java-week2/tree/master/0232-implement-queue-using-stacks) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/jaikrishna10/java-week2/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Design
 |  |
 | ------- |
