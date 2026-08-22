@@ -38,4 +38,16 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/jaikrishna10/java-week2/tree/master/0867-transpose-matrix) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/jaikrishna10/java-week2/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/jaikrishna10/java-week2/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/jaikrishna10/java-week2/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
