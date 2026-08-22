@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/jaikrishna10/java-week2/tree/master/0179-largest-number) |
+| [0239-sliding-window-maximum](https://github.com/jaikrishna10/java-week2/tree/master/0239-sliding-window-maximum) |
 | [0704-binary-search](https://github.com/jaikrishna10/java-week2/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/jaikrishna10/java-week2/tree/master/0867-transpose-matrix) |
 ## Greedy
@@ -50,4 +51,21 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/jaikrishna10/java-week2/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/jaikrishna10/java-week2/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/jaikrishna10/java-week2/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/jaikrishna10/java-week2/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/jaikrishna10/java-week2/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/jaikrishna10/java-week2/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
