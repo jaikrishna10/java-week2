@@ -17,6 +17,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/jaikrishna10/java-week2/tree/master/0179-largest-number) |
 | [0239-sliding-window-maximum](https://github.com/jaikrishna10/java-week2/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/jaikrishna10/java-week2/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/jaikrishna10/java-week2/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/jaikrishna10/java-week2/tree/master/0867-transpose-matrix) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jaikrishna10/java-week2/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -48,11 +49,13 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/jaikrishna10/java-week2/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/jaikrishna10/java-week2/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/jaikrishna10/java-week2/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/jaikrishna10/java-week2/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/jaikrishna10/java-week2/tree/master/0622-design-circular-queue) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jaikrishna10/java-week2/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Sliding Window
 |  |
@@ -96,4 +99,8 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/jaikrishna10/java-week2/tree/master/0199-binary-tree-right-side-view) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/jaikrishna10/java-week2/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
