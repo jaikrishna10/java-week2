@@ -17,6 +17,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/jaikrishna10/java-week2/tree/master/0179-largest-number) |
 | [0239-sliding-window-maximum](https://github.com/jaikrishna10/java-week2/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/jaikrishna10/java-week2/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/jaikrishna10/java-week2/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/jaikrishna10/java-week2/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/jaikrishna10/java-week2/tree/master/0704-binary-search) |
@@ -26,10 +27,12 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/jaikrishna10/java-week2/tree/master/0179-largest-number) |
+| [0621-task-scheduler](https://github.com/jaikrishna10/java-week2/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/jaikrishna10/java-week2/tree/master/0179-largest-number) |
+| [0621-task-scheduler](https://github.com/jaikrishna10/java-week2/tree/master/0621-task-scheduler) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,6 +72,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jaikrishna10/java-week2/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/jaikrishna10/java-week2/tree/master/0621-task-scheduler) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jaikrishna10/java-week2/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
@@ -107,4 +111,12 @@
 | ------- |
 | [0622-design-circular-queue](https://github.com/jaikrishna10/java-week2/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/jaikrishna10/java-week2/tree/master/0641-design-circular-deque) |
+## Hash Table
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/jaikrishna10/java-week2/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/jaikrishna10/java-week2/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
