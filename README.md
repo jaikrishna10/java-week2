@@ -55,6 +55,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/jaikrishna10/java-week2/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/jaikrishna10/java-week2/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/jaikrishna10/java-week2/tree/master/0641-design-circular-deque) |
+| [0933-number-of-recent-calls](https://github.com/jaikrishna10/java-week2/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0239-sliding-window-maximum](https://github.com/jaikrishna10/java-week2/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/jaikrishna10/java-week2/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/jaikrishna10/java-week2/tree/master/0641-design-circular-deque) |
+| [0933-number-of-recent-calls](https://github.com/jaikrishna10/java-week2/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jaikrishna10/java-week2/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Sliding Window
 |  |
@@ -119,4 +121,8 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/jaikrishna10/java-week2/tree/master/0621-task-scheduler) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/jaikrishna10/java-week2/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
