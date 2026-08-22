@@ -22,6 +22,7 @@
 | [0622-design-circular-queue](https://github.com/jaikrishna10/java-week2/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/jaikrishna10/java-week2/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/jaikrishna10/java-week2/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/jaikrishna10/java-week2/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/jaikrishna10/java-week2/tree/master/0867-transpose-matrix) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jaikrishna10/java-week2/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Greedy
@@ -45,12 +46,14 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/jaikrishna10/java-week2/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/jaikrishna10/java-week2/tree/master/0867-transpose-matrix) |
 ## Stack
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/jaikrishna10/java-week2/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/jaikrishna10/java-week2/tree/master/0232-implement-queue-using-stacks) |
+| [0735-asteroid-collision](https://github.com/jaikrishna10/java-week2/tree/master/0735-asteroid-collision) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/jaikrishna10/java-week2/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Design
 |  |
