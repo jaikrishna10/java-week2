@@ -49,11 +49,13 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/jaikrishna10/java-week2/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/jaikrishna10/java-week2/tree/master/0232-implement-queue-using-stacks) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/jaikrishna10/java-week2/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/jaikrishna10/java-week2/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/jaikrishna10/java-week2/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/jaikrishna10/java-week2/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/jaikrishna10/java-week2/tree/master/0641-design-circular-deque) |
